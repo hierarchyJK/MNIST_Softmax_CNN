@@ -1,0 +1,2 @@
+# MNIST_Softmax_CNN
+采用了单纯的Softmax和CNN网络进行手写体数字识别，采用Keras框架的Sequential模型，里面涉及了卷积，池化，dropout，Dense，Flatten；对于手写数据集获取方式也有说明，而不再不是用已经被官方弃用的方法；数据处理以及可视化数据和结果；模型的编译，训练，保存，加载都有涉及
